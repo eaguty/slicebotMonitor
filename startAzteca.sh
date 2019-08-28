@@ -1,0 +1,1 @@
+./slicebot azteca.cfg

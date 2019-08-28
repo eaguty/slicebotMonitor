@@ -1,0 +1,1 @@
+./slicebot deportes.cfg

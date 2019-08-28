@@ -1,0 +1,1 @@
+./slicebot noticias.cfg
